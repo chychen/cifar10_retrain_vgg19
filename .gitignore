@@ -8,6 +8,8 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+pre_trained/
+saved_model/
 env/
 build/
 develop-eggs/
